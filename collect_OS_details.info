@@ -1,0 +1,6 @@
+{
+"displayName":"Collecting OS details",
+"description":"Collecting OS details for OVA/rpm",
+"ownerId" : "Kumar Nishant",
+"maxExecutionTimeInMinutes" : "5"
+}
